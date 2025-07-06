@@ -1,2 +1,2 @@
 ### project 1
-Analsis on sales record using Microsoft Excel Sheet with a clearly built Dashboad from the pivot tables.
+Analysis on sales record using Microsoft Excel Sheet with a clearly built Dashboard from the pivot tables.
