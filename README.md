@@ -1,2 +1,2 @@
-### DSA-Excel-Project
-This is my first project work on excel as an analysts
+### project 1
+Analsis on sales record using Microsoft Excel Sheet with a clearly built Dashboad from the pivot tables.
