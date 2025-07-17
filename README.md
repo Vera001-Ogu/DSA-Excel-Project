@@ -34,3 +34,7 @@ In the initial phase of the Data cleaning and preparations, I performed the foll
 - Promote high rated products.
 - Improve product quality for categories with low average rating.
 - Focus discount on underperforming product to drive engagement.
+
+
+
+
